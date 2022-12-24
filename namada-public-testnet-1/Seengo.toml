@@ -1,0 +1,9 @@
+[validator.Seengo]
+consensus_public_key = "00db5bec2c03513d4ec89faf540bfc84a41a4f10c42974f9270aef72eefd355612"
+account_public_key = "00663b4e369344f19bc409682bab2156a29c72ad5829a12bcdcedf9c66010508c1"
+protocol_public_key = "009b957b6b96128c9eb66d3ce32e3a3cac1ee8570adcf1003fe6b7a5d67e204052"
+dkg_public_key = "600000005a8aa5b29ab421ed9c9a467a344d020b3d031ab13e17a9ddcb6af6a05e96758d3b7bc32f31d179751fbb2ff8ba18a109db56559055cd42c3bc9a92816a54246ac2d45d86dbd29143ba0f0641602203e7bb6d8783dbf65ec43998eab71d448f82"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "159.69.82.189:26656"
+tendermint_node_key = "00ff30e1c995bf82f3a902dd3e5602a4ea68eb9b8851f6d5bf0d6095980de22279"
